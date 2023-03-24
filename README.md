@@ -21,9 +21,12 @@ I'm a highly motivated junior front-end developer and know HTML, CSS, SCSS and J
   * React.js
   * and other technologies
   
-- 📫 How to reach me: https://t.me/surilova 
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@olena_surilova/b9bcbc2f-71c6-4ba9-96f8-ecdbdc5025e8.png"/></a>
+<div align="center">
+    <details>
+        <summary><b>Languages over last 30 days👇🏻</b></summary>
+     <a href="https://wakatime.com"><img src="https://wakatime.com/share/@olena_surilova/b9bcbc2f-71c6-4ba9-96f8-ecdbdc5025e8.png"/></a>
+ </details>
+</div>
 
 <!--
 **helen25sur/helen25sur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
