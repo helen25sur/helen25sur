@@ -11,11 +11,13 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-c14438?style=social&logo=Telegram&logoColor=red&link=https://t.me/surilova)](https://t.me/surilova)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/olena-surilova-8aa66b122/)](https://www.linkedin.com/in/olena-surilova-8aa66b122/)
 
-I'm a highly motivated junior front-end developer and know HTML, CSS, SCSS and JavaScript. Now, I'm learning, Vue, React, Typescript and Node.js. I can work with Git and familiar with Webpack. My strengths are high motivation, critical and analytical thinking, responsibility and hard-working. I want to develop my skills further in a team of like-minded people, who are keen on development just like me.
+I am a motivated junior front-end developer with solid skills in HTML, CSS, SCSS, and JavaScript. I am currently expanding my expertise in React, Vue, TypeScript, and Node.js. I am comfortable working with Git and familiar with build tools like Webpack.
+
+I am highly responsible, detail-oriented, and committed to continuous learning. I thrive in collaborative environments and enjoy contributing to projects alongside a team of like-minded developers who are passionate about creating quality software.
 
 [![Code::Stats](https://user-images.githubusercontent.com/19654456/220208546-03cad085-8930-41b0-b464-a9364df8c0d5.png)](https://codestats.net/users/helen25sur)
 
-- 💻 I’m currently learning Front-End Development
+- 💻 My stack
   * JavaScript / HTML / CSS
   * Vue.js
   * React.js
