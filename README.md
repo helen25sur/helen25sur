@@ -17,13 +17,16 @@ I am highly responsible, detail-oriented, and committed to continuous learning. 
 
 [![Code::Stats](https://user-images.githubusercontent.com/19654456/220208546-03cad085-8930-41b0-b464-a9364df8c0d5.png)](https://codestats.net/users/helen25sur)
 
-- 💻 My stack
-  * JavaScript / HTML / CSS
-  * Vue.js
-  * React.js
-  * and other technologies
+### 💻 My stack
   
-<div align="center">
+  ![HTML5](https://img.shields.io/badge/HTML5-CSS3?style=flat&logo=html5&logoColor=%23000&color=%23dd4b25)
+  ![CSS3](https://img.shields.io/badge/CSS-HTML?style=flat&logo=css&logoColor=%23FFF&color=%232862e9)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+  ![Vue.js](https://img.shields.io/badge/VUE-JS?style=flat&logo=vue.js&logoColor=%23FFF&color=%233fb984)
+  ![Nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+  
+<div align="left">
     <details>
         <summary><b>Languages over last 30 days👇🏻</b></summary>
      <a href="https://wakatime.com"><img src="https://wakatime.com/share/@olena_surilova/b9bcbc2f-71c6-4ba9-96f8-ecdbdc5025e8.png"/></a>
