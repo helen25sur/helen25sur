@@ -2,7 +2,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/7898c8e2-6b19-4825-b1c2-bbaaba8cace0.svg)](https://wakatime.com/@7898c8e2-6b19-4825-b1c2-bbaaba8cace0)
 
-[![GitHub followers](https://img.shields.io/github/followers/helen25sur?label=Follow&style=social)](https://github.com/helen25sur/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-elen21surilova-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:elen21surilova@gmail.com)](mailto:elen21surilova@gmail.com)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/olena-surilova-8aa66b122/)
 
